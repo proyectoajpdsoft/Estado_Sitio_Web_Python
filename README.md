@@ -1,1 +1,3 @@
 Script en Python que comprueba el estado de un sitio web y devuelve los valores necesarios para pasar el estado al sistema de monitorización Pandora FMS. El script Python permite obtener el estado o bien mediante su código devuelto o bien mediante la comparación con algún valor devuelto en alguna de sus cabeceras (headers). Generamos un ejecutable portable de la aplicación Python tanto para Windows como para Linux. Más información en: https://proyectoa.com/codigo-fuente-app-python-para-obtener-el-estado-de-un-sitio-web
+
+![image-14-1024x206](https://github.com/user-attachments/assets/8b2b65b2-2d62-4c92-be4a-de4d3cd1e3db)
